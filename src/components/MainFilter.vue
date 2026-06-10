@@ -8,19 +8,19 @@
         <div class="keywords__tag">
           <span>Spring</span>
           <button class="button button--keyword">
-            <img src="./assets/images/Icon.png" alt="Delete" />
+            <img src="../assets/images/Icon.png" alt="Delete" />
           </button>
         </div>
         <div class="keywords__tag">
           <span>Smart</span>
           <button class="button button--keyword">
-            <img src="./assets/images/Icon.png" alt="Delete" />
+            <img src="../assets/images/Icon.png" alt="Delete" />
           </button>
         </div>
         <div class="keywords__tag">
           <span>Modern</span>
           <button class="button button--keyword">
-            <img src="./assets/images/Icon.png" alt="Delete" />
+            <img src="../assets/images/Icon.png" alt="Delete" />
           </button>
         </div>
       </div>

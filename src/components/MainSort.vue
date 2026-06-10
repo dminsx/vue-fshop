@@ -1,11 +1,30 @@
-<script setup></script>
+<script setup>
+defineProps({
+  modelValue: {
+    type: String,
+    default: "new",
+  },
+});
+
+const emit = defineEmits("update: modelValue");
+
+function onInput() {
+  emit("update:modelValue", event.target.value);
+}
+</script>
 
 <template>
   <div class="filterBar">
     <div class="searchFilter">
-      <input type="text" placeholder="Search" class="inputSearch" />
+      <input
+        :value="modelValue"
+        type="text"
+        placeholder="Search"
+        class="inputSearch"
+        @input="onInput"
+      />
       <button type="submit" class="buttonSearch">
-        <img src="./assets/images/Search.png" alt="Search" />
+        <img src="../assets/images/Search.png" alt="Search" />
       </button>
     </div>
     <div class="tagGroup">
@@ -22,9 +41,11 @@
   display: flex;
   justify-content: space-between;
   height: 40px;
+  gap: 24px;
 }
 
 .searchFilter {
+  flex: 1;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -36,6 +57,7 @@
 }
 
 .inputSearch {
+  flex: 1;
   width: 64px;
   border: none;
   padding: 0;

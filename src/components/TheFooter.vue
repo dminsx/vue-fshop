@@ -3,19 +3,19 @@
 <template>
   <footer class="footer">
     <div class="links">
-      <a href="/"><img src="./assets/images/Figma.png" alt="Home" /></a>
+      <a href="/"><img src="../assets/images/Figma.png" alt="Home" /></a>
       <div class="socialLinks">
         <a href="https://x.com/" target="_blank"
-          ><img src="./assets/images/X Logo.png" alt="X"
+          ><img src="../assets/images/X Logo.png" alt="X"
         /></a>
         <a href="https://www.instagram.com/" target="_blank"
-          ><img src="./assets/images/Logo Instagram.png" alt="Instagram"
+          ><img src="../assets/images/Logo Instagram.png" alt="Instagram"
         /></a>
         <a href="https://www.youtube.com/" target="_blank"
-          ><img src="./assets/images/Logo YouTube.png" alt="YouTube"
+          ><img src="../assets/images/Logo YouTube.png" alt="YouTube"
         /></a>
         <a href="https://ru.linkedin.com/" target="_blank"
-          ><img src="./assets/images/LinkedIn.png" alt="LinkedIn"
+          ><img src="../assets/images/LinkedIn.png" alt="LinkedIn"
         /></a>
       </div>
     </div>

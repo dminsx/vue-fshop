@@ -3,7 +3,7 @@
 <template>
   <header class="header">
     <a class="header__logo" href=""
-      ><img src="./assets/images/Block.png" alt="Logo"
+      ><img src="../assets/images/Block.png" alt="Logo"
     /></a>
 
     <ul class="header__menu" role="navigation">

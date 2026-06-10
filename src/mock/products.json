@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "Iphone 12",
+    "name": "iPhone 12",
     "category": "Smartphone",
     "color": "Black",
     "material": "aluminum",
@@ -10,7 +10,7 @@
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-1/600/600"
+    "image": "/productImages/iPhone_12_blue.webp"
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-2/600/600"
+    "image": "/productImages/Samsung_Galaxy_S23_white.webp"
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-3/600/600"
+    "image": "/productImages/Xiaomi_Redmi_Note_13_blue.webp"
   },
   {
     "id": 4,
@@ -49,7 +49,7 @@
     "guarantee": "1 year",
     "inStock": false,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-4/600/600"
+    "image": "/productImages/Google_Pixel_8_gray.webp"
   },
   {
     "id": 5,
@@ -62,24 +62,24 @@
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-5/600/600"
+    "image": "/productImages/OnePlus_12_silver.webp"
   },
   {
     "id": 6,
-    "name": "Laptop Model 6",
+    "name": "Dell XPS 13",
     "category": "Laptop",
-    "color": "White",
+    "color": "Silver",
     "material": "glass",
     "price": 10200,
     "country": "Vietnam",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-6/600/600"
+    "image": "/productImages/Dell_XPS_13_silver.webp"
   },
   {
     "id": 7,
-    "name": "Tablet Model 7",
+    "name": "iPad (10th Generation)",
     "category": "Tablet",
     "color": "Blue",
     "material": "metal",
@@ -88,11 +88,11 @@
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-7/600/600"
+    "image": "/productImages/iPad_10th_Gen_blue.webp"
   },
   {
     "id": 8,
-    "name": "Headphones Model 8",
+    "name": "Sony WH-1000XM5",
     "category": "Headphones",
     "color": "Gray",
     "material": "plastic",
@@ -101,24 +101,24 @@
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-8/600/600"
+    "image": "/productImages/Sony_WH-1000XM5_gray.webp"
   },
   {
     "id": 9,
-    "name": "Smartwatch Model 9",
+    "name": "Apple Watch SE 3",
     "category": "Smartwatch",
-    "color": "Silver",
+    "color": "Black",
     "material": "aluminum",
     "price": 13800,
     "country": "Malaysia",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-9/600/600"
+    "image": "/productImages/Apple_Watch_SE_3_black.webp"
   },
   {
     "id": 10,
-    "name": "TV Model 10",
+    "name": "Samsung QLED 4K TV",
     "category": "TV",
     "color": "Black",
     "material": "glass",
@@ -127,11 +127,11 @@
     "guarantee": "2 year",
     "inStock": false,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-10/600/600"
+    "image": "/productImages/Samsung_QLED_4K_TV_black.webp"
   },
   {
     "id": 11,
-    "name": "Gaming Console Model 11",
+    "name": "PlayStation 5",
     "category": "Gaming Console",
     "color": "White",
     "material": "metal",
@@ -140,24 +140,24 @@
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-11/600/600"
+    "image": "/productImages/PlayStation_5_white.webp"
   },
   {
     "id": 12,
-    "name": "Camera Model 12",
+    "name": "Canon EOS R10",
     "category": "Camera",
-    "color": "Blue",
+    "color": "Black",
     "material": "plastic",
     "price": 17400,
     "country": "Japan",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-12/600/600"
+    "image": "/productImages/Canon_EOS_R10_black.webp"
   },
   {
     "id": 13,
-    "name": "Monitor Model 13",
+    "name": "Dell UltraSharp U2723QE",
     "category": "Monitor",
     "color": "Gray",
     "material": "aluminum",
@@ -166,24 +166,24 @@
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-13/600/600"
+    "image": "/productImages/Dell_UltraSharp_U2723QE_gray.webp"
   },
   {
     "id": 14,
-    "name": "Keyboard Model 14",
+    "name": "Keychron K2",
     "category": "Keyboard",
-    "color": "Silver",
-    "material": "glass",
+    "color": "Black",
+    "material": "plastic",
     "price": 19800,
     "country": "Malaysia",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-14/600/600"
+    "image": "/productImages/Keychron_K2_black.webp"
   },
   {
     "id": 15,
-    "name": "Mouse Model 15",
+    "name": "Logitech MX Master 3S",
     "category": "Mouse",
     "color": "Black",
     "material": "metal",
@@ -192,89 +192,89 @@
     "guarantee": "1 year",
     "inStock": false,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-15/600/600"
+    "image": "/productImages/Logitech_MX_Master_3S_black.webp"
   },
   {
     "id": 16,
-    "name": "Speaker Model 16",
+    "name": "JBL Charge 5",
     "category": "Speaker",
-    "color": "White",
+    "color": "Blue",
     "material": "plastic",
     "price": 22200,
     "country": "Vietnam",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-16/600/600"
+    "image": "/productImages/JBL_Charge_5_blue.webp"
   },
   {
     "id": 17,
-    "name": "Router Model 17",
+    "name": "TP-Link Archer AX73",
     "category": "Router",
-    "color": "Blue",
-    "material": "aluminum",
+    "color": "Black",
+    "material": "plastic",
     "price": 23400,
     "country": "Japan",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-17/600/600"
+    "image": "/productImages/TP-Link_Archer_AX73_black.webp"
   },
   {
     "id": 18,
-    "name": "SSD Model 18",
+    "name": "Samsung 990 Pro",
     "category": "SSD",
-    "color": "Gray",
-    "material": "glass",
+    "color": "Black",
+    "material": "aluminum",
     "price": 24600,
     "country": "South Korea",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-18/600/600"
+    "image": "/productImages/Samsung_990_Pro_black.webp"
   },
   {
     "id": 19,
-    "name": "Power Bank Model 19",
+    "name": "Anker PowerCore 20K",
     "category": "Power Bank",
-    "color": "Silver",
+    "color": "Black",
     "material": "metal",
     "price": 25800,
     "country": "Malaysia",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-19/600/600"
+    "image": "/productImages/Anker_PowerCore_20K_black.webp"
   },
   {
     "id": 20,
-    "name": "Drone Model 20",
+    "name": "DJI Mini 3",
     "category": "Drone",
-    "color": "Black",
+    "color": "White",
     "material": "plastic",
     "price": 27000,
     "country": "China",
     "guarantee": "3 year",
     "inStock": false,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-20/600/600"
+    "image": "/productImages/DJI_Mini_3_white.webp"
   },
   {
     "id": 21,
-    "name": "Laptop Model 21",
+    "name": "Dell XPS 15",
     "category": "Laptop",
-    "color": "White",
+    "color": "Black",
     "material": "aluminum",
     "price": 28200,
     "country": "Vietnam",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-21/600/600"
+    "image": "/productImages/Dell_XPS_15_black.webp"
   },
   {
     "id": 22,
-    "name": "Tablet Model 22",
+    "name": "iPad Air (5th Gen)",
     "category": "Tablet",
     "color": "Blue",
     "material": "glass",
@@ -283,271 +283,271 @@
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-22/600/600"
+    "image": "/productImages/iPad_Air_5th Gen_blue.webp"
   },
   {
     "id": 23,
-    "name": "Headphones Model 23",
+    "name": "Bose QuietComfort 45",
     "category": "Headphones",
-    "color": "Gray",
-    "material": "metal",
+    "color": "Black",
+    "material": "plastic",
     "price": 30600,
     "country": "South Korea",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-23/600/600"
+    "image": "/productImages/Bose_QuietComfort_45_black.webp"
   },
   {
     "id": 24,
-    "name": "Smartwatch Model 24",
+    "name": "Samsung Galaxy Watch 6",
     "category": "Smartwatch",
-    "color": "Silver",
-    "material": "plastic",
+    "color": "Black",
+    "material": "aluminum",
     "price": 31800,
     "country": "Malaysia",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-24/600/600"
+    "image": "/productImages/Samsung_Galaxy_Watch_6_black.webp"
   },
   {
     "id": 25,
-    "name": "TV Model 25",
+    "name": "LG OLED C3",
     "category": "TV",
-    "color": "Black",
-    "material": "aluminum",
+    "color": "Gray",
+    "material": "glass",
     "price": 33000,
     "country": "China",
     "guarantee": "2 year",
     "inStock": false,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-25/600/600"
+    "image": "/productImages/LG_OLED_C3_gray.webp"
   },
   {
     "id": 26,
-    "name": "Gaming Console Model 26",
+    "name": "Xbox Series X",
     "category": "Gaming Console",
     "color": "White",
-    "material": "glass",
+    "material": "plastic",
     "price": 34200,
     "country": "Vietnam",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-26/600/600"
+    "image": "/productImages/Xbox_Series_X_black.webp"
   },
   {
     "id": 27,
-    "name": "Camera Model 27",
+    "name": "Sony A7 IV",
     "category": "Camera",
-    "color": "Blue",
+    "color": "Black",
     "material": "metal",
     "price": 35400,
     "country": "Japan",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-27/600/600"
+    "image": "/productImages/Sony_A7_IV_black.webp"
   },
   {
     "id": 28,
-    "name": "Monitor Model 28",
+    "name": "LG UltraFine 4K",
     "category": "Monitor",
-    "color": "Gray",
+    "color": "White",
     "material": "plastic",
     "price": 36600,
     "country": "South Korea",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-28/600/600"
+    "image": "/productImages/LG_UltraFine_4K_white.webp"
   },
   {
     "id": 29,
-    "name": "Keyboard Model 29",
+    "name": "Logitech MX Keys",
     "category": "Keyboard",
-    "color": "Silver",
+    "color": "Gray",
     "material": "aluminum",
     "price": 37800,
     "country": "Malaysia",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-29/600/600"
+    "image": "/productImages/Logitech_MX_Keys_gray.webp"
   },
   {
     "id": 30,
-    "name": "Mouse Model 30",
+    "name": "Razer DeathAdder V3",
     "category": "Mouse",
     "color": "Black",
-    "material": "glass",
+    "material": "plastic",
     "price": 39000,
     "country": "China",
     "guarantee": "1 year",
     "inStock": false,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-30/600/600"
+    "image": "/productImages/Razer_DeathAdder_V3_black.webp"
   },
   {
     "id": 31,
-    "name": "Speaker Model 31",
+    "name": "Sonos One",
     "category": "Speaker",
-    "color": "White",
-    "material": "metal",
+    "color": "Black",
+    "material": "plastic",
     "price": 40200,
     "country": "Vietnam",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-31/600/600"
+    "image": "/productImages/Sonos_One_black.webp"
   },
   {
     "id": 32,
-    "name": "Router Model 32",
+    "name": "ASUS RT-AX88U",
     "category": "Router",
-    "color": "Blue",
+    "color": "Black",
     "material": "plastic",
     "price": 41400,
     "country": "Japan",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-32/600/600"
+    "image": "/productImages/ASUS_RT-AX88U_black.webp"
   },
   {
     "id": 33,
-    "name": "SSD Model 33",
+    "name": "WD Black SN850X",
     "category": "SSD",
-    "color": "Gray",
-    "material": "aluminum",
+    "color": "Black",
+    "material": "metal",
     "price": 42600,
     "country": "South Korea",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-33/600/600"
+    "image": "/productImages/WD_Black_SN850X_black.webp"
   },
   {
     "id": 34,
-    "name": "Power Bank Model 34",
+    "name": "Xiaomi 20000mAh Power Bank",
     "category": "Power Bank",
     "color": "Silver",
-    "material": "glass",
+    "material": "plastic",
     "price": 43800,
     "country": "Malaysia",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-34/600/600"
+    "image": "/productImages/Xiaomi_20000mAh_Power_Bank.webp"
   },
   {
     "id": 35,
-    "name": "Drone Model 35",
+    "name": "DJI Air 2S",
     "category": "Drone",
-    "color": "Black",
+    "color": "Gray",
     "material": "metal",
     "price": 45000,
     "country": "China",
     "guarantee": "3 year",
     "inStock": false,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-35/600/600"
+    "image": "/productImages/DJI_Air_2S_gray.webp"
   },
   {
     "id": 36,
-    "name": "Laptop Model 36",
+    "name": "MacBook Air M2",
     "category": "Laptop",
-    "color": "White",
-    "material": "plastic",
+    "color": "Gray",
+    "material": "aluminum",
     "price": 46200,
     "country": "Vietnam",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-36/600/600"
+    "image": "/productImages/MacBook_Air_M2_gray.webp"
   },
   {
     "id": 37,
-    "name": "Tablet Model 37",
+    "name": "Samsung Galaxy Tab S8",
     "category": "Tablet",
-    "color": "Blue",
+    "color": "Pink",
     "material": "aluminum",
     "price": 47400,
     "country": "Japan",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-37/600/600"
+    "image": "/productImages/Samsung_Galaxy_Tab_S8_pink.webp"
   },
   {
     "id": 38,
-    "name": "Headphones Model 38",
+    "name": "Sony WH-1000XM4",
     "category": "Headphones",
-    "color": "Gray",
-    "material": "glass",
+    "color": "Black",
+    "material": "plastic",
     "price": 48600,
     "country": "South Korea",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-38/600/600"
+    "image": "/productImages/Sony_WH-1000XM4_black.webp"
   },
   {
     "id": 39,
-    "name": "Smartwatch Model 39",
+    "name": "Apple Watch Series 9",
     "category": "Smartwatch",
-    "color": "Silver",
-    "material": "metal",
+    "color": "Blue",
+    "material": "aluminum",
     "price": 49800,
     "country": "Malaysia",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-39/600/600"
+    "image": "/productImages/Apple_Watch_Series_9_blue.webp"
   },
   {
     "id": 40,
-    "name": "TV Model 40",
+    "name": "Samsung Neo QLED 8K",
     "category": "TV",
     "color": "Black",
-    "material": "plastic",
+    "material": "glass",
     "price": 51000,
     "country": "China",
     "guarantee": "2 year",
     "inStock": false,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-40/600/600"
+    "image": "/productImages/Samsung_Neo_QLED_8K_black.webp"
   },
   {
     "id": 41,
-    "name": "Gaming Console Model 41",
+    "name": "Xbox Series S",
     "category": "Gaming Console",
     "color": "White",
-    "material": "aluminum",
+    "material": "metal",
     "price": 52200,
     "country": "Vietnam",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-41/600/600"
+    "image": "/productImages/Xbox_Series_S_white.webp"
   },
   {
     "id": 42,
-    "name": "Camera Model 42",
+    "name": "Sony A7C",
     "category": "Camera",
-    "color": "Blue",
-    "material": "glass",
+    "color": "Black",
+    "material": "metal",
     "price": 53400,
     "country": "Japan",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-42/600/600"
+    "image": "/productImages/Sony_A7C_black.webp"
   },
   {
     "id": 43,
-    "name": "Monitor Model 43",
+    "name": "Dell P2723D",
     "category": "Monitor",
     "color": "Gray",
     "material": "metal",
@@ -556,11 +556,11 @@
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-43/600/600"
+    "image": "/productImages/Dell_P2723D_gray.webp"
   },
   {
     "id": 44,
-    "name": "Keyboard Model 44",
+    "name": "Keychron K8",
     "category": "Keyboard",
     "color": "Silver",
     "material": "plastic",
@@ -569,154 +569,154 @@
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-44/600/600"
+    "image": "/productImages/Keychron_K8_silver.webp"
   },
   {
     "id": 45,
-    "name": "Mouse Model 45",
+    "name": "Logitech G Pro X Superlight",
     "category": "Mouse",
     "color": "Black",
-    "material": "aluminum",
+    "material": "plastic",
     "price": 57000,
     "country": "China",
     "guarantee": "1 year",
     "inStock": false,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-45/600/600"
+    "image": "/productImages/Logitech_G_Pro_X_Superlight_black.webp"
   },
   {
     "id": 46,
-    "name": "Speaker Model 46",
+    "name": "JBL Flip 6",
     "category": "Speaker",
-    "color": "White",
-    "material": "glass",
+    "color": "Black",
+    "material": "plastic",
     "price": 58200,
     "country": "Vietnam",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-46/600/600"
+    "image": "/productImages/JBL_Flip_6_black.webp"
   },
   {
     "id": 47,
-    "name": "Router Model 47",
+    "name": "TP-Link Archer AX55",
     "category": "Router",
-    "color": "Blue",
-    "material": "metal",
+    "color": "Black",
+    "material": "plastic",
     "price": 59400,
     "country": "Japan",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-47/600/600"
+    "image": "/productImages/TP-Link_Archer_AX55_black.webp"
   },
   {
     "id": 48,
-    "name": "SSD Model 48",
+    "name": "Samsung 980 Pro",
     "category": "SSD",
-    "color": "Gray",
-    "material": "plastic",
+    "color": "Black",
+    "material": "metal",
     "price": 60600,
     "country": "South Korea",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-48/600/600"
+    "image": "/productImages/Samsung_980_Pro_black.webp"
   },
   {
     "id": 49,
-    "name": "Power Bank Model 49",
+    "name": "Anker 737 Power Bank",
     "category": "Power Bank",
     "color": "Silver",
-    "material": "aluminum",
+    "material": "metal",
     "price": 61800,
     "country": "Malaysia",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-49/600/600"
+    "image": "/productImages/Anker_737_Power_Bank_silver.webp"
   },
   {
     "id": 50,
-    "name": "Drone Model 50",
+    "name": "DJI Air 3",
     "category": "Drone",
-    "color": "Black",
-    "material": "glass",
+    "color": "Gray",
+    "material": "plastic",
     "price": 63000,
     "country": "China",
     "guarantee": "3 year",
     "inStock": false,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-50/600/600"
+    "image": "/productImages/DJI_Air_3_gray.webp"
   },
   {
     "id": 51,
-    "name": "Laptop Model 51",
+    "name": "Lenovo ThinkPad X1 Carbon",
     "category": "Laptop",
-    "color": "White",
-    "material": "metal",
+    "color": "Black",
+    "material": "carbon",
     "price": 64200,
     "country": "Vietnam",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-51/600/600"
+    "image": "/productImages/Lenovo_ThinkPad_X1_Carbon_black.webp"
   },
   {
     "id": 52,
-    "name": "Tablet Model 52",
+    "name": "Apple iPad Pro 11",
     "category": "Tablet",
-    "color": "Blue",
-    "material": "plastic",
+    "color": "Pink",
+    "material": "aluminum",
     "price": 65400,
     "country": "Japan",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-52/600/600"
+    "image": "/productImages/Apple_iPad_Pro_11_pink.webp"
   },
   {
     "id": 53,
-    "name": "Headphones Model 53",
+    "name": "Sennheiser Momentum 4",
     "category": "Headphones",
-    "color": "Gray",
-    "material": "aluminum",
+    "color": "Black",
+    "material": "plastic",
     "price": 66600,
     "country": "South Korea",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-53/600/600"
+    "image": "/productImages/Sennheiser_Momentum_4_black.webp"
   },
   {
     "id": 54,
-    "name": "Smartwatch Model 54",
+    "name": "Garmin Venu 3",
     "category": "Smartwatch",
     "color": "Silver",
-    "material": "glass",
+    "material": "plastic",
     "price": 67800,
     "country": "Malaysia",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-54/600/600"
+    "image": "/productImages/Garmin_Venu_3_silver.webp"
   },
   {
     "id": 55,
-    "name": "TV Model 55",
+    "name": "Sony Bravia XR A80L",
     "category": "TV",
     "color": "Black",
-    "material": "metal",
+    "material": "plastic",
     "price": 69000,
     "country": "China",
     "guarantee": "2 year",
     "inStock": false,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-55/600/600"
+    "image": "/productImages/Sony_Bravia_XR_A80L_black.webp"
   },
   {
     "id": 56,
-    "name": "Gaming Console Model 56",
+    "name": "Nintendo Switch OLED",
     "category": "Gaming Console",
     "color": "White",
     "material": "plastic",
@@ -725,50 +725,50 @@
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-56/600/600"
+    "image": "/productImages/Nintendo_Switch_OLED_white.webp"
   },
   {
     "id": 57,
-    "name": "Camera Model 57",
+    "name": "Nikon Z6 II",
     "category": "Camera",
-    "color": "Blue",
-    "material": "aluminum",
+    "color": "Black",
+    "material": "metal",
     "price": 71400,
     "country": "Japan",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-57/600/600"
+    "image": "/productImages/Nikon_Z6_II_black.webp"
   },
   {
     "id": 58,
-    "name": "Monitor Model 58",
+    "name": "ASUS ProArt Display PA278CV",
     "category": "Monitor",
     "color": "Gray",
-    "material": "glass",
+    "material": "plastic",
     "price": 72600,
     "country": "South Korea",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-58/600/600"
+    "image": "/productImages/ASUS_ProArt_Display_PA278CV_gray.webp"
   },
   {
     "id": 59,
-    "name": "Keyboard Model 59",
+    "name": "Corsair K70 RGB",
     "category": "Keyboard",
     "color": "Silver",
-    "material": "metal",
+    "material": "aluminum",
     "price": 73800,
     "country": "Malaysia",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-59/600/600"
+    "image": "/productImages/Corsair_K70_RGB_silver.webp"
   },
   {
     "id": 60,
-    "name": "Mouse Model 60",
+    "name": "SteelSeries Rival 3",
     "category": "Mouse",
     "color": "Black",
     "material": "plastic",
@@ -777,167 +777,154 @@
     "guarantee": "1 year",
     "inStock": false,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-60/600/600"
+    "image": "/productImages/SteelSeries_Rival_3_black.webp"
   },
   {
     "id": 61,
-    "name": "Speaker Model 61",
+    "name": "Harman Kardon Onyx Studio 7",
     "category": "Speaker",
-    "color": "White",
+    "color": "Blue",
     "material": "aluminum",
     "price": 76200,
     "country": "Vietnam",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-61/600/600"
+    "image": "/productImages/Harman_Kardon_Onyx_Studio 7_blue.webp"
   },
   {
     "id": 62,
-    "name": "Router Model 62",
+    "name": "NETGEAR WNDAP660",
     "category": "Router",
-    "color": "Blue",
-    "material": "glass",
+    "color": "White",
+    "material": "plastic",
     "price": 77400,
     "country": "Japan",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-62/600/600"
+    "image": "/productImages/NETGEAR_WNDAP660_white.webp"
   },
   {
     "id": 63,
-    "name": "SSD Model 63",
+    "name": "Crucial P5 Plus",
     "category": "SSD",
-    "color": "Gray",
+    "color": "Black",
     "material": "metal",
     "price": 78600,
     "country": "South Korea",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-63/600/600"
+    "image": "/productImages/Crucial_P5_Plus_black.webp"
   },
   {
     "id": 64,
-    "name": "Power Bank Model 64",
+    "name": "Baseus 30000mAh Power Bank",
     "category": "Power Bank",
-    "color": "Silver",
+    "color": "Black",
     "material": "plastic",
     "price": 79800,
     "country": "Malaysia",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-64/600/600"
+    "image": "/productImages/Baseus_30000mAh_Power_Bank_black.webp"
   },
   {
     "id": 65,
-    "name": "Drone Model 65",
+    "name": "Autel EVO Lite",
     "category": "Drone",
-    "color": "Black",
-    "material": "aluminum",
+    "color": "Orange",
+    "material": "plastic",
     "price": 81000,
     "country": "China",
     "guarantee": "3 year",
     "inStock": false,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-65/600/600"
+    "image": "/productImages/Autel_EVO_Lite_orange.webp"
   },
   {
     "id": 66,
-    "name": "Laptop Model 66",
+    "name": "HP Spectre x360",
     "category": "Laptop",
-    "color": "White",
-    "material": "glass",
+    "color": "Blue",
+    "material": "aluminum",
     "price": 82200,
     "country": "Vietnam",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-66/600/600"
+    "image": "/productImages/HP_Spectre_x360_blue.webp"
   },
   {
     "id": 67,
-    "name": "Tablet Model 67",
+    "name": "Microsoft Surface Pro 9",
     "category": "Tablet",
-    "color": "Blue",
-    "material": "metal",
+    "color": "Gray",
+    "material": "aluminum",
     "price": 83400,
     "country": "Japan",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-67/600/600"
+    "image": "/productImages/Microsoft_Surface_Pro_9_gray.webp"
   },
   {
     "id": 68,
-    "name": "Headphones Model 68",
+    "name": "Beats Studio3",
     "category": "Headphones",
-    "color": "Gray",
+    "color": "Blue",
     "material": "plastic",
     "price": 84600,
     "country": "South Korea",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-68/600/600"
+    "image": "/productImages/Beats_Studio3_blue.webp"
   },
   {
     "id": 69,
-    "name": "Smartwatch Model 69",
-    "category": "Smartwatch",
-    "color": "Silver",
-    "material": "aluminum",
-    "price": 85800,
-    "country": "Malaysia",
-    "guarantee": "1 year",
-    "inStock": true,
-    "isPopular": true,
-    "image": "https://picsum.photos/seed/product-69/600/600"
-  },
-  {
-    "id": 70,
-    "name": "TV Model 70",
+    "name": "TCL Mini LED TV 55C6K",
     "category": "TV",
     "color": "Black",
-    "material": "glass",
+    "material": "plastic",
     "price": 87000,
     "country": "China",
     "guarantee": "2 year",
     "inStock": false,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-70/600/600"
+    "image": "/productImages/TCL_Mini_LED_TV_55C6K_black.webp"
   },
   {
-    "id": 71,
-    "name": "Gaming Console Model 71",
+    "id": 70,
+    "name": "Steam Deck",
     "category": "Gaming Console",
-    "color": "White",
-    "material": "metal",
+    "color": "Black",
+    "material": "aluminum",
     "price": 88200,
     "country": "Vietnam",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-71/600/600"
+    "image": "/productImages/Steam_Deck_black.webp"
   },
   {
-    "id": 72,
-    "name": "Camera Model 72",
+    "id": 71,
+    "name": "Fujifilm X-T5",
     "category": "Camera",
-    "color": "Blue",
-    "material": "plastic",
+    "color": "Black",
+    "material": "metal",
     "price": 89400,
     "country": "Japan",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-72/600/600"
+    "image": "/productImages/Fujifilm_X-T5_black.webp"
   },
   {
-    "id": 73,
-    "name": "Monitor Model 73",
+    "id": 72,
+    "name": "BenQ PD3220U",
     "category": "Monitor",
     "color": "Gray",
     "material": "aluminum",
@@ -946,37 +933,37 @@
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-73/600/600"
+    "image": "/productImages/BenQ_PD3220U_gray.webp"
   },
   {
-    "id": 74,
-    "name": "Keyboard Model 74",
+    "id": 73,
+    "name": "HyperX Alloy Origins",
     "category": "Keyboard",
-    "color": "Silver",
-    "material": "glass",
+    "color": "Black",
+    "material": "aluminum",
     "price": 91800,
     "country": "Malaysia",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-74/600/600"
+    "image": "/productImages/HyperX_Alloy_Origins_black.webp"
   },
   {
-    "id": 75,
-    "name": "Mouse Model 75",
+    "id": 74,
+    "name": "Razer Basilisk V3",
     "category": "Mouse",
     "color": "Black",
-    "material": "metal",
+    "material": "plastic",
     "price": 93000,
     "country": "China",
     "guarantee": "1 year",
     "inStock": false,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-75/600/600"
+    "image": "/productImages/Razer_Basilisk_V3_black.webp"
   },
   {
-    "id": 76,
-    "name": "Speaker Model 76",
+    "id": 75,
+    "name": "Marshall Emberton II",
     "category": "Speaker",
     "color": "White",
     "material": "plastic",
@@ -985,167 +972,167 @@
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-76/600/600"
+    "image": "/productImages/Marshall_Emberton_II_black.webp"
   },
   {
-    "id": 77,
-    "name": "Router Model 77",
+    "id": 76,
+    "name": "Keenetic KN-3811 Hopper",
     "category": "Router",
-    "color": "Blue",
-    "material": "aluminum",
+    "color": "White",
+    "material": "plastic",
     "price": 95400,
     "country": "Japan",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-77/600/600"
+    "image": "/productImages/Keenetic_KN-3811_Hopper_white.webp"
   },
   {
-    "id": 78,
-    "name": "SSD Model 78",
+    "id": 77,
+    "name": "Kingston KC3000",
     "category": "SSD",
-    "color": "Gray",
-    "material": "glass",
+    "color": "Black",
+    "material": "metal",
     "price": 96600,
     "country": "South Korea",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-78/600/600"
+    "image": "/productImages/Kingston_KC3000_black.webp"
   },
   {
-    "id": 79,
-    "name": "Power Bank Model 79",
+    "id": 78,
+    "name": "UGREEN 25000mAh Power Bank",
     "category": "Power Bank",
-    "color": "Silver",
+    "color": "Gray",
     "material": "metal",
     "price": 97800,
     "country": "Malaysia",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-79/600/600"
+    "image": "/productImages/UGREEN_25000mAh_Power_Bank_gray.webp"
   },
   {
-    "id": 80,
-    "name": "Drone Model 80",
+    "id": 79,
+    "name": "Antigravity A1 Explorer Bundle",
     "category": "Drone",
-    "color": "Black",
+    "color": "White",
     "material": "plastic",
     "price": 99000,
     "country": "China",
     "guarantee": "3 year",
     "inStock": false,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-80/600/600"
+    "image": "/productImages/Antigravity_A1_Explorer_Bundle_white.webp"
   },
   {
-    "id": 81,
-    "name": "Laptop Model 81",
+    "id": 80,
+    "name": "Acer Swift X",
     "category": "Laptop",
-    "color": "White",
-    "material": "aluminum",
+    "color": "Blue",
+    "material": "plastic",
     "price": 100200,
     "country": "Vietnam",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-81/600/600"
+    "image": "/productImages/Acer_Swift_X_blue.webp"
   },
   {
-    "id": 82,
-    "name": "Tablet Model 82",
+    "id": 81,
+    "name": "Lenovo Tab P12 Pro",
     "category": "Tablet",
-    "color": "Blue",
-    "material": "glass",
+    "color": "Gray",
+    "material": "aluminum",
     "price": 101400,
     "country": "Japan",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-82/600/600"
+    "image": "/productImages/Lenovo_Tab_P12_Pro_gray.webp"
   },
   {
-    "id": 83,
-    "name": "Headphones Model 83",
+    "id": 82,
+    "name": "Audio-Technica ATH-M50X",
     "category": "Headphones",
-    "color": "Gray",
-    "material": "metal",
+    "color": "Black",
+    "material": "plastic",
     "price": 102600,
     "country": "South Korea",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-83/600/600"
+    "image": "/productImages/Audio-Technica_ATH-M50X_black.webp"
   },
   {
-    "id": 84,
-    "name": "Smartwatch Model 84",
+    "id": 83,
+    "name": "Huawei Watch GT 4",
     "category": "Smartwatch",
-    "color": "Silver",
+    "color": "Black",
     "material": "plastic",
     "price": 103800,
     "country": "Malaysia",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-84/600/600"
+    "image": "/productImages/Huawei_Watch_GT_4_black.webp"
   },
   {
-    "id": 85,
-    "name": "TV Model 85",
+    "id": 84,
+    "name": "Hisense U8K Mini LED",
     "category": "TV",
     "color": "Black",
-    "material": "aluminum",
+    "material": "plastic",
     "price": 105000,
     "country": "China",
     "guarantee": "2 year",
     "inStock": false,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-85/600/600"
+    "image": "/productImages/Hisense_U8K_Mini_LED_black.webp"
   },
   {
-    "id": 86,
-    "name": "Gaming Console Model 86",
+    "id": 85,
+    "name": "Asus Rog Xbox Ally X",
     "category": "Gaming Console",
-    "color": "White",
-    "material": "glass",
+    "color": "Gray",
+    "material": "plastic",
     "price": 106200,
     "country": "Vietnam",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-86/600/600"
+    "image": "/productImages/Asus_Rog_Xbox_Ally_X_gray.webp"
   },
   {
-    "id": 87,
-    "name": "Camera Model 87",
+    "id": 86,
+    "name": "Panasonic Lumix S5 II",
     "category": "Camera",
-    "color": "Blue",
+    "color": "Black",
     "material": "metal",
     "price": 107400,
     "country": "Japan",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-87/600/600"
+    "image": "/productImages/Panasonic_Lumix_S5_II_black.webp"
   },
   {
-    "id": 88,
-    "name": "Monitor Model 88",
+    "id": 87,
+    "name": "MSI PRO MP273A",
     "category": "Monitor",
-    "color": "Gray",
+    "color": "Black",
     "material": "plastic",
     "price": 108600,
     "country": "South Korea",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-88/600/600"
+    "image": "/productImages/MSI_PRO_MP273A_black.webp"
   },
   {
-    "id": 89,
-    "name": "Keyboard Model 89",
+    "id": 88,
+    "name": "Logitech G915 TKL",
     "category": "Keyboard",
     "color": "Silver",
     "material": "aluminum",
@@ -1154,89 +1141,76 @@
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-89/600/600"
+    "image": "/productImages/Logitech_G915_TKL_silver.webp"
   },
   {
-    "id": 90,
-    "name": "Mouse Model 90",
+    "id": 89,
+    "name": "Razer Viper V2 Pro",
     "category": "Mouse",
-    "color": "Black",
-    "material": "glass",
+    "color": "White",
+    "material": "plastic",
     "price": 111000,
     "country": "China",
     "guarantee": "1 year",
     "inStock": false,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-90/600/600"
+    "image": "/productImages/Razer_Viper_V2_Pro_white.webp"
   },
   {
-    "id": 91,
-    "name": "Speaker Model 91",
+    "id": 90,
+    "name": "Bang & Olufsen Beosound",
     "category": "Speaker",
-    "color": "White",
-    "material": "metal",
+    "color": "Black",
+    "material": "plastic",
     "price": 112200,
     "country": "Vietnam",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-91/600/600"
+    "image": "/productImages/Bang_&_Olufsen_Beosound_black.webp"
   },
   {
-    "id": 92,
-    "name": "Router Model 92",
+    "id": 91,
+    "name": "Ubiquiti Dream Machine Pro",
     "category": "Router",
-    "color": "Blue",
-    "material": "plastic",
+    "color": "White",
+    "material": "metal",
     "price": 113400,
     "country": "Japan",
     "guarantee": "3 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-92/600/600"
+    "image": "/productImages/Ubiquiti_Dream_Machine_Pro_white.webp"
   },
   {
-    "id": 93,
-    "name": "SSD Model 93",
+    "id": 92,
+    "name": "Samsung 990 PRO 4TB",
     "category": "SSD",
-    "color": "Gray",
-    "material": "aluminum",
+    "color": "Black",
+    "material": "metal",
     "price": 114600,
     "country": "South Korea",
     "guarantee": "1 year",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-93/600/600"
+    "image": "/productImages/Samsung_990_PRO_4TB_black.webp"
   },
   {
-    "id": 94,
-    "name": "Power Bank Model 94",
+    "id": 93,
+    "name": "KEYRON PD-20",
     "category": "Power Bank",
-    "color": "Silver",
-    "material": "glass",
+    "color": "Gray",
+    "material": "plastic",
     "price": 115800,
     "country": "Malaysia",
     "guarantee": "2 year",
     "inStock": true,
     "isPopular": false,
-    "image": "https://picsum.photos/seed/product-94/600/600"
+    "image": "/productImages/KEYRON_PD-20_gray.webp"
   },
   {
-    "id": 95,
-    "name": "Drone Model 95",
-    "category": "Drone",
-    "color": "Black",
-    "material": "metal",
-    "price": 117000,
-    "country": "China",
-    "guarantee": "3 year",
-    "inStock": false,
-    "isPopular": false,
-    "image": "https://picsum.photos/seed/product-95/600/600"
-  },
-  {
-    "id": 96,
-    "name": "NVIDIA GeForce RTX 5090",
+    "id": 94,
+    "name": "NVIDIA GeForce RTX 4090",
     "category": "Video Card",
     "color": "Black",
     "material": "metal",
@@ -1245,11 +1219,11 @@
     "guarantee": "3 years",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-96/600/600"
+    "image": "/productImages/NVIDIA_GeForce_RTX_4090_black.webp"
   },
   {
-    "id": 97,
-    "name": "NVIDIA GeForce RTX 5080",
+    "id": 95,
+    "name": "NVIDIA GeForce RTX 4080",
     "category": "Video Card",
     "color": "Black",
     "material": "metal",
@@ -1258,11 +1232,11 @@
     "guarantee": "3 years",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-97/600/600"
+    "image": "/productImages/NVIDIA_GeForce_RTX_4080_black.webp"
   },
   {
-    "id": 98,
-    "name": "AMD Radeon RX 8900 XT",
+    "id": 96,
+    "name": "AMD Radeon RX 7900 XTX",
     "category": "Video Card",
     "color": "Black",
     "material": "metal",
@@ -1271,11 +1245,11 @@
     "guarantee": "3 years",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-98/600/600"
+    "image": "/productImages/AMD_Radeon_RX_7900_XTX_black.webp"
   },
   {
-    "id": 99,
-    "name": "NVIDIA GeForce RTX 5070 Ti",
+    "id": 97,
+    "name": "NVIDIA GeForce RTX 4070 Ti",
     "category": "Video Card",
     "color": "Black",
     "material": "metal",
@@ -1284,11 +1258,11 @@
     "guarantee": "3 years",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-99/600/600"
+    "image": "/productImages/NVIDIA_GeForce_RTX_4070_Ti_black.webp"
   },
   {
-    "id": 100,
-    "name": "AMD Radeon RX 8800 XT",
+    "id": 98,
+    "name": "AMD Radeon RX 7800 XT",
     "category": "Video Card",
     "color": "Black",
     "material": "metal",
@@ -1297,6 +1271,6 @@
     "guarantee": "3 years",
     "inStock": true,
     "isPopular": true,
-    "image": "https://picsum.photos/seed/product-100/600/600"
+    "image": "/productImages/AMD_Radeon_RX_7800_XT.webp"
   }
 ]

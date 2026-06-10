@@ -1,16 +1,15 @@
-import products from './products.json';
+import products from "./products.json";
 
-const PAGE_SIZE = 6;
+const PAGE_SIZE = 9;
 
-export async function fetchProducts(page = 1, search = '') {
-  console.log(`Fetching products for page ${page} with search "${search}"...`);
+export async function fetchProducts(page = 1, search = "") {
   return new Promise((resolve) => {
     setTimeout(() => {
       const normalizedSearch = search.trim().toLowerCase();
 
       const filteredProducts = normalizedSearch
         ? products.filter((product) =>
-            product.name.toLowerCase().includes(normalizedSearch)
+            product.name.toLowerCase().includes(normalizedSearch),
           )
         : products;
 
