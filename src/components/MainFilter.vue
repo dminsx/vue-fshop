@@ -1,4 +1,8 @@
-<script setup></script>
+<script setup>
+// Определить пропсы filters, selectedValues
+// Выплевывать эмит change-filters
+// Переписать шаблон под отрисовку по спискам
+</script>
 
 <template>
   <div class="filter-menu">
