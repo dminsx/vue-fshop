@@ -7,7 +7,7 @@
     "material": "aluminum",
     "price": 20000,
     "country": "China",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/iPhone_12_blue.webp"
@@ -20,7 +20,7 @@
     "material": "aluminum",
     "price": 25000,
     "country": "Vietnam",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Samsung_Galaxy_S23_white.webp"
@@ -33,7 +33,7 @@
     "material": "glass",
     "price": 30000,
     "country": "Japan",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Xiaomi_Redmi_Note_13_blue.webp"
@@ -46,7 +46,7 @@
     "material": "metal",
     "price": 35000,
     "country": "South Korea",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": false,
     "isPopular": false,
     "image": "/productImages/Google_Pixel_8_gray.webp"
@@ -59,7 +59,7 @@
     "material": "plastic",
     "price": 40000,
     "country": "Malaysia",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/OnePlus_12_silver.webp"
@@ -72,7 +72,7 @@
     "material": "glass",
     "price": 10200,
     "country": "Vietnam",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Dell_XPS_13_silver.webp"
@@ -85,7 +85,7 @@
     "material": "metal",
     "price": 11400,
     "country": "Japan",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/iPad_10th_Gen_blue.webp"
@@ -98,7 +98,7 @@
     "material": "plastic",
     "price": 12600,
     "country": "South Korea",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Sony_WH-1000XM5_gray.webp"
@@ -111,7 +111,7 @@
     "material": "aluminum",
     "price": 13800,
     "country": "Malaysia",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Apple_Watch_SE_3_black.webp"
@@ -124,7 +124,7 @@
     "material": "glass",
     "price": 15000,
     "country": "China",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": false,
     "isPopular": false,
     "image": "/productImages/Samsung_QLED_4K_TV_black.webp"
@@ -137,7 +137,7 @@
     "material": "metal",
     "price": 16200,
     "country": "Vietnam",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/PlayStation_5_white.webp"
@@ -150,7 +150,7 @@
     "material": "plastic",
     "price": 17400,
     "country": "Japan",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Canon_EOS_R10_black.webp"
@@ -163,7 +163,7 @@
     "material": "aluminum",
     "price": 18600,
     "country": "South Korea",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Dell_UltraSharp_U2723QE_gray.webp"
@@ -176,7 +176,7 @@
     "material": "plastic",
     "price": 19800,
     "country": "Malaysia",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Keychron_K2_black.webp"
@@ -189,7 +189,7 @@
     "material": "metal",
     "price": 21000,
     "country": "China",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": false,
     "isPopular": true,
     "image": "/productImages/Logitech_MX_Master_3S_black.webp"
@@ -202,7 +202,7 @@
     "material": "plastic",
     "price": 22200,
     "country": "Vietnam",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/JBL_Charge_5_blue.webp"
@@ -215,7 +215,7 @@
     "material": "plastic",
     "price": 23400,
     "country": "Japan",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/TP-Link_Archer_AX73_black.webp"
@@ -228,7 +228,7 @@
     "material": "aluminum",
     "price": 24600,
     "country": "South Korea",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Samsung_990_Pro_black.webp"
@@ -241,7 +241,7 @@
     "material": "metal",
     "price": 25800,
     "country": "Malaysia",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Anker_PowerCore_20K_black.webp"
@@ -254,7 +254,7 @@
     "material": "plastic",
     "price": 27000,
     "country": "China",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": false,
     "isPopular": false,
     "image": "/productImages/DJI_Mini_3_white.webp"
@@ -267,7 +267,7 @@
     "material": "aluminum",
     "price": 28200,
     "country": "Vietnam",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Dell_XPS_15_black.webp"
@@ -280,7 +280,7 @@
     "material": "glass",
     "price": 29400,
     "country": "Japan",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/iPad_Air_5th Gen_blue.webp"
@@ -293,7 +293,7 @@
     "material": "plastic",
     "price": 30600,
     "country": "South Korea",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Bose_QuietComfort_45_black.webp"
@@ -306,7 +306,7 @@
     "material": "aluminum",
     "price": 31800,
     "country": "Malaysia",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Samsung_Galaxy_Watch_6_black.webp"
@@ -319,7 +319,7 @@
     "material": "glass",
     "price": 33000,
     "country": "China",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": false,
     "isPopular": false,
     "image": "/productImages/LG_OLED_C3_gray.webp"
@@ -332,7 +332,7 @@
     "material": "plastic",
     "price": 34200,
     "country": "Vietnam",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Xbox_Series_X_black.webp"
@@ -345,7 +345,7 @@
     "material": "metal",
     "price": 35400,
     "country": "Japan",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Sony_A7_IV_black.webp"
@@ -358,7 +358,7 @@
     "material": "plastic",
     "price": 36600,
     "country": "South Korea",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/LG_UltraFine_4K_white.webp"
@@ -371,7 +371,7 @@
     "material": "aluminum",
     "price": 37800,
     "country": "Malaysia",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Logitech_MX_Keys_gray.webp"
@@ -384,7 +384,7 @@
     "material": "plastic",
     "price": 39000,
     "country": "China",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": false,
     "isPopular": true,
     "image": "/productImages/Razer_DeathAdder_V3_black.webp"
@@ -397,7 +397,7 @@
     "material": "plastic",
     "price": 40200,
     "country": "Vietnam",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Sonos_One_black.webp"
@@ -410,7 +410,7 @@
     "material": "plastic",
     "price": 41400,
     "country": "Japan",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/ASUS_RT-AX88U_black.webp"
@@ -423,7 +423,7 @@
     "material": "metal",
     "price": 42600,
     "country": "South Korea",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/WD_Black_SN850X_black.webp"
@@ -436,7 +436,7 @@
     "material": "plastic",
     "price": 43800,
     "country": "Malaysia",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Xiaomi_20000mAh_Power_Bank.webp"
@@ -449,7 +449,7 @@
     "material": "metal",
     "price": 45000,
     "country": "China",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": false,
     "isPopular": false,
     "image": "/productImages/DJI_Air_2S_gray.webp"
@@ -462,7 +462,7 @@
     "material": "aluminum",
     "price": 46200,
     "country": "Vietnam",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/MacBook_Air_M2_gray.webp"
@@ -475,7 +475,7 @@
     "material": "aluminum",
     "price": 47400,
     "country": "Japan",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Samsung_Galaxy_Tab_S8_pink.webp"
@@ -488,7 +488,7 @@
     "material": "plastic",
     "price": 48600,
     "country": "South Korea",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Sony_WH-1000XM4_black.webp"
@@ -501,7 +501,7 @@
     "material": "aluminum",
     "price": 49800,
     "country": "Malaysia",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Apple_Watch_Series_9_blue.webp"
@@ -514,7 +514,7 @@
     "material": "glass",
     "price": 51000,
     "country": "China",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": false,
     "isPopular": false,
     "image": "/productImages/Samsung_Neo_QLED_8K_black.webp"
@@ -527,7 +527,7 @@
     "material": "metal",
     "price": 52200,
     "country": "Vietnam",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Xbox_Series_S_white.webp"
@@ -540,7 +540,7 @@
     "material": "metal",
     "price": 53400,
     "country": "Japan",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Sony_A7C_black.webp"
@@ -553,7 +553,7 @@
     "material": "metal",
     "price": 54600,
     "country": "South Korea",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Dell_P2723D_gray.webp"
@@ -566,7 +566,7 @@
     "material": "plastic",
     "price": 55800,
     "country": "Malaysia",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Keychron_K8_silver.webp"
@@ -579,7 +579,7 @@
     "material": "plastic",
     "price": 57000,
     "country": "China",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": false,
     "isPopular": true,
     "image": "/productImages/Logitech_G_Pro_X_Superlight_black.webp"
@@ -592,7 +592,7 @@
     "material": "plastic",
     "price": 58200,
     "country": "Vietnam",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/JBL_Flip_6_black.webp"
@@ -605,7 +605,7 @@
     "material": "plastic",
     "price": 59400,
     "country": "Japan",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/TP-Link_Archer_AX55_black.webp"
@@ -618,7 +618,7 @@
     "material": "metal",
     "price": 60600,
     "country": "South Korea",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Samsung_980_Pro_black.webp"
@@ -631,7 +631,7 @@
     "material": "metal",
     "price": 61800,
     "country": "Malaysia",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Anker_737_Power_Bank_silver.webp"
@@ -644,7 +644,7 @@
     "material": "plastic",
     "price": 63000,
     "country": "China",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": false,
     "isPopular": false,
     "image": "/productImages/DJI_Air_3_gray.webp"
@@ -657,7 +657,7 @@
     "material": "carbon",
     "price": 64200,
     "country": "Vietnam",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Lenovo_ThinkPad_X1_Carbon_black.webp"
@@ -670,7 +670,7 @@
     "material": "aluminum",
     "price": 65400,
     "country": "Japan",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Apple_iPad_Pro_11_pink.webp"
@@ -683,7 +683,7 @@
     "material": "plastic",
     "price": 66600,
     "country": "South Korea",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Sennheiser_Momentum_4_black.webp"
@@ -696,7 +696,7 @@
     "material": "plastic",
     "price": 67800,
     "country": "Malaysia",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Garmin_Venu_3_silver.webp"
@@ -709,7 +709,7 @@
     "material": "plastic",
     "price": 69000,
     "country": "China",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": false,
     "isPopular": false,
     "image": "/productImages/Sony_Bravia_XR_A80L_black.webp"
@@ -722,7 +722,7 @@
     "material": "plastic",
     "price": 70200,
     "country": "Vietnam",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Nintendo_Switch_OLED_white.webp"
@@ -735,7 +735,7 @@
     "material": "metal",
     "price": 71400,
     "country": "Japan",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Nikon_Z6_II_black.webp"
@@ -748,7 +748,7 @@
     "material": "plastic",
     "price": 72600,
     "country": "South Korea",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/ASUS_ProArt_Display_PA278CV_gray.webp"
@@ -761,7 +761,7 @@
     "material": "aluminum",
     "price": 73800,
     "country": "Malaysia",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Corsair_K70_RGB_silver.webp"
@@ -774,7 +774,7 @@
     "material": "plastic",
     "price": 75000,
     "country": "China",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": false,
     "isPopular": true,
     "image": "/productImages/SteelSeries_Rival_3_black.webp"
@@ -787,7 +787,7 @@
     "material": "aluminum",
     "price": 76200,
     "country": "Vietnam",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Harman_Kardon_Onyx_Studio 7_blue.webp"
@@ -800,7 +800,7 @@
     "material": "plastic",
     "price": 77400,
     "country": "Japan",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/NETGEAR_WNDAP660_white.webp"
@@ -813,7 +813,7 @@
     "material": "metal",
     "price": 78600,
     "country": "South Korea",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Crucial_P5_Plus_black.webp"
@@ -826,7 +826,7 @@
     "material": "plastic",
     "price": 79800,
     "country": "Malaysia",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Baseus_30000mAh_Power_Bank_black.webp"
@@ -839,7 +839,7 @@
     "material": "plastic",
     "price": 81000,
     "country": "China",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": false,
     "isPopular": false,
     "image": "/productImages/Autel_EVO_Lite_orange.webp"
@@ -852,7 +852,7 @@
     "material": "aluminum",
     "price": 82200,
     "country": "Vietnam",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/HP_Spectre_x360_blue.webp"
@@ -865,7 +865,7 @@
     "material": "aluminum",
     "price": 83400,
     "country": "Japan",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Microsoft_Surface_Pro_9_gray.webp"
@@ -878,7 +878,7 @@
     "material": "plastic",
     "price": 84600,
     "country": "South Korea",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Beats_Studio3_blue.webp"
@@ -891,7 +891,7 @@
     "material": "plastic",
     "price": 87000,
     "country": "China",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": false,
     "isPopular": false,
     "image": "/productImages/TCL_Mini_LED_TV_55C6K_black.webp"
@@ -904,7 +904,7 @@
     "material": "aluminum",
     "price": 88200,
     "country": "Vietnam",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Steam_Deck_black.webp"
@@ -917,7 +917,7 @@
     "material": "metal",
     "price": 89400,
     "country": "Japan",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Fujifilm_X-T5_black.webp"
@@ -930,7 +930,7 @@
     "material": "aluminum",
     "price": 90600,
     "country": "South Korea",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/BenQ_PD3220U_gray.webp"
@@ -943,7 +943,7 @@
     "material": "aluminum",
     "price": 91800,
     "country": "Malaysia",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/HyperX_Alloy_Origins_black.webp"
@@ -956,7 +956,7 @@
     "material": "plastic",
     "price": 93000,
     "country": "China",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": false,
     "isPopular": true,
     "image": "/productImages/Razer_Basilisk_V3_black.webp"
@@ -969,7 +969,7 @@
     "material": "plastic",
     "price": 94200,
     "country": "Vietnam",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Marshall_Emberton_II_black.webp"
@@ -982,7 +982,7 @@
     "material": "plastic",
     "price": 95400,
     "country": "Japan",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Keenetic_KN-3811_Hopper_white.webp"
@@ -995,7 +995,7 @@
     "material": "metal",
     "price": 96600,
     "country": "South Korea",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Kingston_KC3000_black.webp"
@@ -1008,7 +1008,7 @@
     "material": "metal",
     "price": 97800,
     "country": "Malaysia",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/UGREEN_25000mAh_Power_Bank_gray.webp"
@@ -1021,7 +1021,7 @@
     "material": "plastic",
     "price": 99000,
     "country": "China",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": false,
     "isPopular": false,
     "image": "/productImages/Antigravity_A1_Explorer_Bundle_white.webp"
@@ -1034,7 +1034,7 @@
     "material": "plastic",
     "price": 100200,
     "country": "Vietnam",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Acer_Swift_X_blue.webp"
@@ -1047,7 +1047,7 @@
     "material": "aluminum",
     "price": 101400,
     "country": "Japan",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Lenovo_Tab_P12_Pro_gray.webp"
@@ -1060,7 +1060,7 @@
     "material": "plastic",
     "price": 102600,
     "country": "South Korea",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Audio-Technica_ATH-M50X_black.webp"
@@ -1073,7 +1073,7 @@
     "material": "plastic",
     "price": 103800,
     "country": "Malaysia",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Huawei_Watch_GT_4_black.webp"
@@ -1086,7 +1086,7 @@
     "material": "plastic",
     "price": 105000,
     "country": "China",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": false,
     "isPopular": false,
     "image": "/productImages/Hisense_U8K_Mini_LED_black.webp"
@@ -1099,7 +1099,7 @@
     "material": "plastic",
     "price": 106200,
     "country": "Vietnam",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Asus_Rog_Xbox_Ally_X_gray.webp"
@@ -1112,7 +1112,7 @@
     "material": "metal",
     "price": 107400,
     "country": "Japan",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Panasonic_Lumix_S5_II_black.webp"
@@ -1125,7 +1125,7 @@
     "material": "plastic",
     "price": 108600,
     "country": "South Korea",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/MSI_PRO_MP273A_black.webp"
@@ -1138,7 +1138,7 @@
     "material": "aluminum",
     "price": 109800,
     "country": "Malaysia",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Logitech_G915_TKL_silver.webp"
@@ -1151,7 +1151,7 @@
     "material": "plastic",
     "price": 111000,
     "country": "China",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": false,
     "isPopular": true,
     "image": "/productImages/Razer_Viper_V2_Pro_white.webp"
@@ -1164,7 +1164,7 @@
     "material": "plastic",
     "price": 112200,
     "country": "Vietnam",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Bang_&_Olufsen_Beosound_black.webp"
@@ -1177,7 +1177,7 @@
     "material": "metal",
     "price": 113400,
     "country": "Japan",
-    "guarantee": "3 year",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/Ubiquiti_Dream_Machine_Pro_white.webp"
@@ -1190,7 +1190,7 @@
     "material": "metal",
     "price": 114600,
     "country": "South Korea",
-    "guarantee": "1 year",
+    "guarantee": 1,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/Samsung_990_PRO_4TB_black.webp"
@@ -1203,7 +1203,7 @@
     "material": "plastic",
     "price": 115800,
     "country": "Malaysia",
-    "guarantee": "2 year",
+    "guarantee": 2,
     "inStock": true,
     "isPopular": false,
     "image": "/productImages/KEYRON_PD-20_gray.webp"
@@ -1216,7 +1216,7 @@
     "material": "metal",
     "price": 180000,
     "country": "Taiwan",
-    "guarantee": "3 years",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/NVIDIA_GeForce_RTX_4090_black.webp"
@@ -1229,7 +1229,7 @@
     "material": "metal",
     "price": 120000,
     "country": "Taiwan",
-    "guarantee": "3 years",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/NVIDIA_GeForce_RTX_4080_black.webp"
@@ -1242,7 +1242,7 @@
     "material": "metal",
     "price": 95000,
     "country": "Taiwan",
-    "guarantee": "3 years",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/AMD_Radeon_RX_7900_XTX_black.webp"
@@ -1255,7 +1255,7 @@
     "material": "metal",
     "price": 85000,
     "country": "Taiwan",
-    "guarantee": "3 years",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/NVIDIA_GeForce_RTX_4070_Ti_black.webp"
@@ -1268,7 +1268,7 @@
     "material": "metal",
     "price": 75000,
     "country": "Taiwan",
-    "guarantee": "3 years",
+    "guarantee": 3,
     "inStock": true,
     "isPopular": true,
     "image": "/productImages/AMD_Radeon_RX_7800_XT.webp"

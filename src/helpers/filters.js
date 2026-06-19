@@ -63,11 +63,11 @@ const isPopular = [
 ];
 
 export const filtersOptions = {
-    category,
-    color,
-}
+  category,
+  color,
+};
 
 export const OPTIONS_LABELS = {
-    category: 'Категория товара',
-    color: 'Цвет товара',
-}
+  category: "Категория товара",
+  color: "Цвет товара",
+};

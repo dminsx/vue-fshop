@@ -1,16 +1,30 @@
 <script setup>
-defineProps({
+import { computed } from "vue";
+
+const props = defineProps({
   modelValue: {
     type: String,
     default: "new",
   },
+  sort: {
+    type: Object,
+    required: true,
+  },
 });
 
-const emit = defineEmits("update: modelValue");
+const emit = defineEmits(["update:modelValue", "update:sort", "clear:sort"]);
 
-function onInput() {
+function onInput(event) {
   emit("update:modelValue", event.target.value);
 }
+
+function onSortChange(field) {
+  emit("update:sort", field);
+}
+
+const ending = computed(() => {
+  return props.sort.order === "desc" ? "↓" : "↑";
+});
 </script>
 
 <template>
@@ -28,10 +42,34 @@ function onInput() {
       </button>
     </div>
     <div class="tagGroup">
-      <div class="button button--tag button--black">New</div>
-      <div class="button button--tag">Price descending</div>
-      <div class="button button--tag">Rating</div>
-      <div class="button button--tag">Price ascending</div>
+      <button
+        class="button button--tag"
+        :class="{ 'button--black': sort.field === 'name' }"
+        @click="onSortChange('name')"
+      >
+        Name <span v-if="sort.field === 'name'">{{ ending }}</span>
+      </button>
+      <button
+        class="button button--tag"
+        :class="{ 'button--black': sort.field === 'price' }"
+        @click="onSortChange('price')"
+      >
+        Price <span v-if="sort.field === 'price'">{{ ending }}</span>
+      </button>
+      <button
+        class="button button--tag"
+        :class="{ 'button--black': sort.field === 'guarantee' }"
+        @click="onSortChange('guarantee')"
+      >
+        Guarantee <span v-if="sort.field === 'guarantee'">{{ ending }}</span>
+      </button>
+      <button
+        v-if="sort.field !== ''"
+        class="button button--tag"
+        @click="emit('clear:sort')"
+      >
+        Clear
+      </button>
     </div>
   </div>
 </template>
@@ -58,7 +96,7 @@ function onInput() {
 
 .inputSearch {
   flex: 1;
-  width: 64px;
+  width: 50%;
   border: none;
   padding: 0;
 

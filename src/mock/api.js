@@ -27,10 +27,7 @@ export async function fetchProducts(
           return false;
         }
 
-        if (
-          filters.color?.length &&
-          !filters.color.includes(product.color)
-        ) {
+        if (filters.color?.length && !filters.color.includes(product.color)) {
           return false;
         }
 

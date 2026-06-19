@@ -1,29 +1,45 @@
 <script setup>
+import { computed } from "vue";
+import { filtersOptions, OPTIONS_LABELS } from "@/helpers/filters";
+
+const props = defineProps({
+  filters: Object,
+  selectedValues: Object,
+});
+
+const emit = defineEmits(["change"]);
+
+function onChange(id, filterKey) {
+  emit("change", id, filterKey);
+}
+
 // Определить пропсы filters, selectedValues
 // Выплевывать эмит change-filters
 // Переписать шаблон под отрисовку по спискам
+
+const clearedFiltersOptions = computed(() => {
+  return Object.keys(props.filters)
+    .filter((key) => props.filters[key].length > 0)
+    .reduce((acc, el) => {
+      acc[el] = props.filters[el];
+
+      return acc;
+    }, {});
+});
 </script>
 
 <template>
   <div class="filter-menu">
-    <div class="keywords">
-      <span>Keywords</span>
+    <div
+      v-for="(filtersOptions, key) in clearedFiltersOptions"
+      :key="key"
+      class="keywords"
+    >
+      <span>{{ OPTIONS_LABELS[key] }}</span>
       <div class="keywords__list">
-        <div class="keywords__tag">
-          <span>Spring</span>
-          <button class="button button--keyword">
-            <img src="../assets/images/Icon.png" alt="Delete" />
-          </button>
-        </div>
-        <div class="keywords__tag">
-          <span>Smart</span>
-          <button class="button button--keyword">
-            <img src="../assets/images/Icon.png" alt="Delete" />
-          </button>
-        </div>
-        <div class="keywords__tag">
-          <span>Modern</span>
-          <button class="button button--keyword">
+        <div v-for="id in filtersOptions" class="keywords__tag">
+          <span>{{ id }}</span>
+          <button class="button button--keyword" @click="onChange(id, key)">
             <img src="../assets/images/Icon.png" alt="Delete" />
           </button>
         </div>
@@ -31,21 +47,23 @@
     </div>
 
     <div class="filter-group">
-      <div class="filterLabel">
-        <div>
-          <input class="checkbox" type="checkbox" name="label" id="label1" />
-          <label class="labelName" for="label1">Label 1</label>
-          <div class="labelDescription">Description</div>
-        </div>
-        <div>
-          <input class="checkbox" type="checkbox" name="label" id="label2" />
-          <label class="labelName" for="label2">Label 2</label>
-          <div class="labelDescription">Description</div>
-        </div>
-        <div>
-          <input class="checkbox" type="checkbox" name="label" id="label3" />
-          <label class="labelName" for="label3">Label 3</label>
-          <div class="labelDescription">Description</div>
+      <div
+        v-for="(option, key) in filtersOptions"
+        :key="key"
+        class="filterLabel"
+      >
+        <div>{{ OPTIONS_LABELS[key] }}</div>
+        <div v-for="variant in option" :key="variant.id">
+          <input
+            :checked="selectedValues[key][variant.id]"
+            class="checkbox"
+            type="checkbox"
+            :id="variant.id"
+            @change="(event) => onChange(event.target.id, key)"
+          />
+          <label class="labelName" :for="variant.label">{{
+            variant.label
+          }}</label>
         </div>
       </div>
     </div>
@@ -56,38 +74,6 @@
         <div class="rangePrice">$0-100</div>
       </div>
       <input type="range" min="0" max="100" value="50" class="sliderPrice" />
-    </div>
-
-    <div class="filter-group">
-      Color
-      <div>
-        <input class="checkbox" type="checkbox" name="label" id="red" />
-        <label class="labelName" for="red">Red</label>
-      </div>
-      <div>
-        <input class="checkbox" type="checkbox" name="label" id="green" />
-        <label class="labelName" for="green">Green</label>
-      </div>
-      <div>
-        <input class="checkbox" type="checkbox" name="label" id="blue" />
-        <label class="labelName" for="blue">Blue</label>
-      </div>
-    </div>
-
-    <div class="filter-group">
-      Size
-      <div>
-        <input class="checkbox" type="checkbox" name="label" id="sm" />
-        <label class="labelName" for="sm">Small</label>
-      </div>
-      <div>
-        <input class="checkbox" type="checkbox" name="label" id="md" />
-        <label class="labelName" for="md">Medium</label>
-      </div>
-      <div>
-        <input class="checkbox" type="checkbox" name="label" id="lg" />
-        <label class="labelName" for="lg">Large</label>
-      </div>
     </div>
   </div>
 </template>
